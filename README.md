@@ -21,7 +21,7 @@ I enjoy solving backend engineering challenges and building reliable application
 
 ## 💼 Professional Experience
 
-**Junior Software Engineer — Welfog Internet Private Limited**
+**Software Development Engineer (Backend) — Welfog Internet Private Limited**
 
 *October 2025 – Present*
 
