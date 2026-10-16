@@ -1,6 +1,6 @@
 # Hi, I'm Bablu Kumar Maurya
 
-### Backend Developer | Node.js Engineer
+### Software Development Engineer (Backend)
 
 Building secure APIs, real-time applications, and scalable backend systems.
 
@@ -158,7 +158,7 @@ Dr. A.P.J. Abdul Kalam Technical University | 2021–2025
 - 💻 [GitHub](https://github.com/bablu-kumar-maurya)
 - 📧 Email: bablu790541@gmail.com
 
-**Open to opportunities:** Backend Developer | Node.js Developer
+**Open to opportunities:** Software Development Engineer (Backend)
 
 <p align="center">
   <i>Building reliable backend systems, one feature at a time.</i>
