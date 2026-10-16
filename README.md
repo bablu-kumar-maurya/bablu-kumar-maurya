@@ -1,95 +1,161 @@
-# 👋 Hey, I'm Bablu Kumar Maurya
+# 👋 Hi, I'm Bablu Kumar Maurya
 
-### 🚀 Backend Developer | Node.js Engineer
+### Backend Developer | Node.js Engineer
 
-**Building reliable APIs, real-time applications, and scalable backend systems.**
+Building secure APIs, real-time applications, and scalable backend systems.
 
-I'm a Backend Developer with **1+ year of experience** working on backend services, REST APIs, authentication systems, and real-time applications. I enjoy solving challenging engineering problems and turning ideas into reliable software.
+I'm a Backend Developer with **1+ year of experience** developing backend services and RESTful APIs using Node.js, Express.js, and MongoDB. My work focuses on real-time communication, secure authentication, background job processing, and video streaming systems.
+
+I enjoy solving backend engineering challenges and building reliable applications with clean architecture and efficient database design.
 
 <p align="center">
   <a href="https://github.com/bablu-kumar-maurya">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/bablu-kushwaha-594621296/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2ea44f?style=for-the-badge" alt="Backend Development"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💼 Professional Experience
+
+**Junior Software Engineer — Welfog Internet Private Limited**
+
+*October 2025 – Present*
+
+- Develop and maintain RESTful APIs and backend services using Node.js, Express.js, and MongoDB.
+- Build backend functionality for a social application's Reels module, including uploads, feeds, likes, views, comments, sharing, and search.
+- Implement asynchronous video processing using BullMQ, background workers, FFmpeg, and HLS.
+- Develop real-time chat functionality using Socket.IO, including online/offline presence, message delivery, and seen states.
+- Build real-time notifications, user interaction features, and administrative APIs.
+- Design MongoDB schemas, queries, and aggregation pipelines.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,js" alt="Node.js, Express.js, JavaScript"/>
 </p>
 
-### Databases & Caching
+### Databases & Background Processing
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,redis" alt="MongoDB and Redis"/>
 </p>
 
-### Tools & Technologies
+**Technologies:** MongoDB, Mongoose, SQL, Redis, BullMQ, database schema design, aggregation pipelines.
+
+### Real-Time Systems & Security
+
+- Socket.IO and WebSockets
+- JWT authentication
+- Access and refresh token management
+- Refresh-token rotation
+- HTTP-only cookies
+- Real-time notifications and message synchronization
+
+### Video Processing & Streaming
+
+- FFmpeg
+- HTTP Live Streaming (HLS)
+- Multiple video quality variants
+- Asynchronous media processing
+- Background workers and job queues
+
+### Tools & Other Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Git, GitHub, Postman, Docker"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,react,html,css,tailwind,java" alt="Git, GitHub, Postman, React, HTML, CSS, Tailwind CSS and Java"/>
 </p>
 
-**Also familiar with:** Mongoose, Socket.IO, BullMQ, JWT, HTTP-only cookies, FFmpeg, and HLS video streaming.
+**Also familiar with:** AWS, Bootstrap, VS Code, IntelliJ IDEA, Data Structures & Algorithms, OOP, and DBMS.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🌐 Welfog — Social & Video Platform
+### 1. 💬 Real-Time Chat & Collaboration Platform
 
-Backend development for a social platform with video and real-time features.
+**Tech Stack:** Node.js, Express.js, Socket.IO, MongoDB, Redis
 
-- ⚡ REST APIs for social application features
-- 🎬 Video processing and HLS streaming
-- 🔐 Authentication and session management
-- 🔔 Notifications and real-time functionality
+A real-time messaging platform focused on secure communication, message synchronization, and reliable session management.
 
-### 2. 💬 Real-Time Chat & Collaboration Platform
+**Key Features**
+- One-to-one and group conversations.
+- Real-time messaging using Socket.IO.
+- Online/offline user presence.
+- Message delivery and seen states.
+- JWT authentication with access and refresh tokens.
+- Secure session management using HTTP-only cookies and refresh-token rotation.
+- Redis integration for real-time and session-related operations.
+- Email-based authentication and password recovery.
 
-A real-time messaging application focused on reliable communication.
-
-- 💬 Real-time messaging with Socket.IO
-- 🟢 Online/offline presence and message delivery states
-- ⚙️ Redis integration and backend event handling
-
-### 3. 🎥 StreamX — Video Streaming Platform
-
-A video streaming project focused on media delivery and processing.
-
-- 🎞️ HLS-based video streaming
-- ⚙️ Media processing workflows
-- 📡 Backend APIs for video delivery
-
-### 4. 🧭 Wanderlust
-
-A web application demonstrating backend development and database integration.
-
-> 📌 Add the actual repository links to each project title once your repositories are ready.
+**Repository:** Add your actual project repository URL here.
 
 ---
 
-## 🧠 What I'm Focusing On
+### 2. 🎥 StreamX — Video Streaming Platform
 
-- Designing scalable backend architectures
-- Building secure and efficient REST APIs
-- Background job processing with Redis and BullMQ
-- Real-time systems using Socket.IO
-- Improving database performance and query optimization
-- Learning system design and distributed systems
+**Tech Stack:** Node.js, Express.js, MongoDB, FFmpeg, HLS
+
+A video streaming platform focused on video processing, content discovery, and adaptive video delivery.
+
+**Key Features**
+- User authentication and profile management.
+- Video upload and content management APIs.
+- FFmpeg-based video processing.
+- HLS conversion for adaptive video delivery.
+- Categorized content discovery.
+- MongoDB-based data modeling and RESTful APIs.
+
+**Status:** In Progress
+
+**Repository:** Add your actual project repository URL here.
 
 ---
 
-## 📊 GitHub Overview
+### 3. 🌐 Welfog — Social & Video Platform
+
+**Tech Stack:** Node.js, Express.js, MongoDB, BullMQ, Socket.IO, FFmpeg, HLS
+
+Backend development for a social application featuring short-form videos, user interactions, and real-time communication.
+
+**Key Contributions**
+- Developed APIs for Reels feeds, likes, views, comments, sharing, and search.
+- Implemented asynchronous video processing with BullMQ and background workers.
+- Converted uploaded videos into HLS streams with multiple quality variants.
+- Developed real-time chat, notifications, and message status synchronization.
+- Built user interaction, blocking, and administrative APIs.
+- Designed MongoDB schemas and aggregation pipelines.
+
+**Note:** Welfog is also my professional work experience. Project details should only be published where sharing is permitted.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech.) — Computer Science and Engineering**
+
+Dr. A.P.J. Abdul Kalam Technical University | 2021–2025
+
+---
+
+## 📜 Certifications & Training
+
+- **MERN Stack Certification** — Simplilearn, 2026
+- **MongoDB Certification** — Simplilearn, 2026
+- **Core Java Training** — CodeGrip, November 2023 – February 2024
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bablu-kumar-maurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu-kumar-maurya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bablu-kumar-maurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu-kumar-maurya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -100,19 +166,12 @@ A web application demonstrating backend development and database integration.
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/bablu-kushwaha-594621296/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bablu%20Kushwaha-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/bablu-kumar-maurya">
-    <img src="https://img.shields.io/badge/GitHub-bablu--kumar--maurya-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/bablu-kushwaha-594621296/)
+- 💻 [GitHub](https://github.com/bablu-kumar-maurya)
+- 📧 Email: bablu790541@gmail.com
 
-💬 **Open to:** Backend Developer and Node.js Developer opportunities.
-
----
+**Open to opportunities:** Backend Developer | Node.js Developer
 
 <p align="center">
-  <i>"Great software is built one meaningful commit at a time."</i>
+  <i>Building reliable backend systems, one feature at a time.</i>
 </p>
