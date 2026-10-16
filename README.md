@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bablu Kumar Maurya
+# Hi, I'm Bablu Kumar Maurya
 
 ### Backend Developer | Node.js Engineer
 
@@ -151,18 +151,6 @@ Dr. A.P.J. Abdul Kalam Technical University | 2021–2025
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bablu-kumar-maurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu-kumar-maurya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=bablu-kumar-maurya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
